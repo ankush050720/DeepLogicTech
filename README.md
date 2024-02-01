@@ -9,7 +9,7 @@ Before running the code, make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-## Installation
+## Installation and Running the Server
 
 1. Clone the repository to your local machine:
 ```
