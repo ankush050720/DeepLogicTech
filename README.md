@@ -16,10 +16,14 @@ Before running the code, make sure you have the following installed:
 git clone https://github.com/ankush050720/DeepLogicTech.git
 ```
 2. Navigate to the project directory:
+```
 cd DeepLogicTech
+```
 
 3. To start the HTTP server and fetch data from the Time website, run the following command:
+```
 node index.js / node .
+```
 
 The server will start on http://localhost:3000/getTimeStories. Open this URL in a web browser or use a tool like curl or Postman to make a GET request.
 
