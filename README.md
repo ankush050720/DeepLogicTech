@@ -12,9 +12,9 @@ Before running the code, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository to your local machine:
-```bash
+```
 git clone https://github.com/ankush050720/DeepLogicTech.git
-
+```
 2. Navigate to the project directory:
 cd DeepLogicTech
 
