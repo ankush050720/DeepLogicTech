@@ -7,7 +7,6 @@ This project demonstrates a simple web scraping implementation in Node.js. The c
 Before running the code, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
 
 ## Installation and Running the Server
 
